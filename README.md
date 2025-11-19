@@ -71,7 +71,7 @@ Estoy abierto a colaborar en:
 
 ## 📫 Conecta conmigo
 
-- 💼 LinkedIn: [Leo Pérez Hinojosa]([tu-linkedin](https://www.linkedin.com/in/leo-p%C3%A9rez-hinojosa-34ba141a4/))
+- 💼 LinkedIn: [tu-linkedin](https://www.linkedin.com/in/leo-p%C3%A9rez-hinojosa-34ba141a4/)
 - 📧 Email: leoperezhinojosa.dev@gmail.com
 - 🌐 Portfolio: [www.leoperezhinojosa.com](https://www.leoperezhinojosa.com)
 
