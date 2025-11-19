@@ -4,7 +4,7 @@ Desarrollador apasionado por crear soluciones web elegantes y funcionales.
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador enfocado en tecnologías web y apps, siempre buscando aprender y mejorar mis habilidades. Me encanta transformar ideas en código y crear experiencias digitales que importen.
+Soy un desarrollador enfocado en tecnologías web y apps, siempre buscando aprender y mejorar mis habilidades. Me encanta transformar ideas en código.
 
 ## 💻 Stack Tecnológico
 
@@ -71,7 +71,7 @@ Estoy abierto a colaborar en:
 
 ## 📫 Conecta conmigo
 
-- 💼 LinkedIn: [Tu perfil](tu-linkedin)
+- 💼 LinkedIn: [Leo Pérez Hinojosa]([tu-linkedin](https://www.linkedin.com/in/leo-p%C3%A9rez-hinojosa-34ba141a4/))
 - 📧 Email: leoperezhinojosa.dev@gmail.com
 - 🌐 Portfolio: [www.leoperezhinojosa.com](https://www.leoperezhinojosa.com)
 
