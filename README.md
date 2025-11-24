@@ -103,12 +103,6 @@ const currentStatus = {
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoperezhinojosa&layout=compact&theme=default)
-
----
-
 ## 🤝 Colaboración
 
 Estoy abierto a colaborar en:
@@ -171,10 +165,4 @@ const leo = {
 
 ### 💬 Siempre estoy dispuesto a conversar sobre tecnología y nuevas ideas
 
-</div>
-
----
-
-<div align="center">
-<sub>Hecho por Leo Pérez Hinojosa</sub>
 </div>
